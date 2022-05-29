@@ -110,16 +110,12 @@ body {
     cursor: pointer;
 }
 
-.link-box span.github a,  .link-box span.github a:visited {
+.link-box span.blue a,  .link-box span.blue a:visited {
     color: #88C0D0;
 }
 
-.link-box span.github a:hover {
+.link-box span.blue a:hover {
     color: #6EFAFB;
-}
-
-.link-box span.email {
-    cursor: pointer;
 }
 
 #rain {
